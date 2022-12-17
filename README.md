@@ -1,10 +1,4 @@
-# car_enthusiast
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+![logo](https://github.com/dzikrul1616/dzikrul1616/blob/main/Github%20Banner%20Rolls.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
