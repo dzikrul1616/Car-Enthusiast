@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196769231642",
+    "project_id": "car-enthusiast-da11d",
+    "storage_bucket": "car-enthusiast-da11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196769231642:android:7ab617eed11956390ab2a3",
+        "android_client_info": {
+          "package_name": "com.example.car_enthusiast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196769231642-ul3pb9l9jh2edk8n0i9ilpisiqcribnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_enthusiast",
+            "certificate_hash": "03699779bce824e4f7435ba4a2a33a4abc8c423a"
+          }
+        },
+        {
+          "client_id": "196769231642-ags3puaptl04u60tktie8e0ik07hohks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYnboX_epremFqoB6LxwN2chKAzIkn-Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196769231642-ags3puaptl04u60tktie8e0ik07hohks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

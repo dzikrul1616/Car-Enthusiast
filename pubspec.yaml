@@ -1,0 +1,36 @@
+name: car_enthusiast
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: '>=2.17.6 <3.0.0'
+
+dependencies:
+  cloud_firestore: ^4.2.0
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.2.1
+  firebase_core: ^2.4.0
+  flutter:
+    sdk: flutter
+  get: 4.6.5
+  google_nav_bar: ^5.0.6
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/
+  fonts:
+    - family: Kanit
+      fonts:
+        - asset: fonts/Kanit-Light.ttf
+    - family: KanitB
+      fonts:
+        - asset: fonts/Kanit-Black.ttf
+    - family: KanitEB
+      fonts:
+        - asset: fonts/Kanit-ExtraBold.ttf
+  uses-material-design: true
